@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="./static/frontend-logo.svg" height="280" width="280">
 </p>
@@ -44,3 +45,5 @@ make docker-run
 ## Contact Information
 
 [Opstree Opensource](opensource@opstree.com)
+=======
+
